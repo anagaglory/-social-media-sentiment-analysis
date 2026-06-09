@@ -70,6 +70,20 @@ Several visualizations were created:
 * Word Cloud
 * Top Word Frequency Analysis
 
+* ## Project Visualizations
+
+### Sentiment Distribution
+
+![Sentiment Distribution](images/sentiment_distribution.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Word Cloud
+
+![Word Cloud](images/wordcloud.png)
+
 Results
 
 Sentiment Distribution
