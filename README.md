@@ -78,7 +78,7 @@ Several visualizations were created:
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Word Cloud
 
