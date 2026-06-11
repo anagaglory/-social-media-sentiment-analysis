@@ -74,14 +74,14 @@ Several visualizations were created:
 
 ### Sentiment Distribution
 
-![Sentiment Distribution](sentiment_distribution.png)
+![Sentiment Distribution](Images/sentiment_distribution.png)
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrx.png)
+![Confusion Matrix](Images/confusion_matrx.png)
 
 ### Word Cloud
 
-![Word Cloud](wordcloud.png)
+![Word Cloud](Images/wordcloud.png)
 
 Results
 
